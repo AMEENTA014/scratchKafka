@@ -1,3 +1,6 @@
+
+you can use this link  https://app.codecrafters.io/r/gorgeous-lizard-975135 to obtain 1 week free resoures and coding challenges 
+
 [![progress-banner](https://backend.codecrafters.io/progress/kafka/b649fc8a-11a2-4f66-881e-4a534705fc74)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
 This is a starting point for Go solutions to the
